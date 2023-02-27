@@ -13,3 +13,5 @@ export const mockMakes = [
   { Make_ID: 478, Make_Name: "NISSAN" },
   { Make_ID: 582, Make_Name: "AUDI" }
 ];
+
+// models api https://vpic.nhtsa.dot.gov/api/vehicles/GetModelsForMakeIdYear/makeId/${make}/modelyear/${year}?format=json
